@@ -3,7 +3,7 @@ package org.coenraets.cellar;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * @author Christophe Coenraets
+ * @author Samya Ghosh
  */
 @XmlRootElement
 public class Wine {
